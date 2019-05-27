@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\bin\Debug\Product_DAL.dll
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\bin\Debug\Product_DAL.pdb
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\bin\Debug\Product_entity.dll
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\bin\Debug\Product_Exception.dll
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\bin\Debug\Product_entity.pdb
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\bin\Debug\Product_Exception.pdb
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\obj\Debug\Product_DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\obj\Debug\Product_DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\obj\Debug\Product_DAL.dll
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_DAL\obj\Debug\Product_DAL.pdb

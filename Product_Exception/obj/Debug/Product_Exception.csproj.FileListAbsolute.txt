@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_Exception\bin\Debug\Product_Exception.dll
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_Exception\bin\Debug\Product_Exception.pdb
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_Exception\obj\Debug\Product_Exception.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_Exception\obj\Debug\Product_Exception.dll
+C:\Users\admin\Desktop\Pushpanjali-177933-M2-SetA\Pushpanjali_177933_M2_SetA\Product_Exception\obj\Debug\Product_Exception.pdb
